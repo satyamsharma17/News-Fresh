@@ -1,6 +1,2 @@
-# News App
-Fetch news from API and list them inside a RecyclerView.
-
-</br>
-</br>
-[![Watch this video](https://img.youtube.com/vi/ttIfesjYDQQ/0.jpg)] (https://www.youtube.com/watch?v=ttIfesjYDQQ)
+# News-Fresh
+A health headline application that brings the latest news from around the world related to the health issue and shows you the headlines with some information on your android mobile device.
